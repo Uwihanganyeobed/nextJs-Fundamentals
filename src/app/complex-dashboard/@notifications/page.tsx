@@ -1,6 +1,5 @@
-import Card from '@/components/card'
+import Card from '@/components/Card'
 import Link from 'next/link'
-import React from 'react'
 
 const Notifications = () => {
   return (
