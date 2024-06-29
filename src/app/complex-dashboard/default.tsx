@@ -1,8 +1,9 @@
+import Card from '@/components/Card'
 import React from 'react'
 
 const DefaultComplexDashboardPage = () => {
   return (
-    <h1>DefaultComplexDashboardPage</h1>
+    <Card>DefaultComplexDashboardPage</Card>
   )
 }
 
